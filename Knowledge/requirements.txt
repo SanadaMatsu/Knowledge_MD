@@ -1,0 +1,5 @@
+google-generativeai>=0.8.0
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0
+lxml>=5.2.0
